@@ -37,7 +37,7 @@
 - **2 Dec, 2025**: 💥💥 Our project homepage has been released: [Artemis homepage](https://vi-ocean.github.io/projects/artemis/).
 -  **1 Dec, 2025**: 💥💥 Our paper ''Artemis: Structured Visual Reasoning for Perception Policy Learning'' has been released: [[Artemis paper](https://arxiv.org/pdf/2512.01988)].
 
-## 🎯 ToDo
+## 📌 ToDo
 
 - [X] Release the Artemis checkpoint.
 - [X] Release the Artemis inference codes.
