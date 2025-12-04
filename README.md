@@ -147,6 +147,8 @@ In Artemis, we primarily focus on the perception task. For more details, please 
 
 Here we provide inference examples for **visual grounding**, **object detection**, and **visual counting**, along with the corresponding bash scripts and evaluation code.  
 
+The Pixmo-count dataset can be found in [Pixmo-Count](https://huggingface.co/datasets/wayneicloud/Artemis-datasets/tree/main), and the COCO dataset you can available in [coco](https://cocodataset.org/#download).
+
 For other tasks and datasets used in our work, such as:  
 
 - [LISA grounding](https://github.com/dvlab-research/LISA)  
